@@ -1,7 +1,7 @@
 # HTML Email
-
+Mockup Project for HTML Email 
 
 ![alt text](./images/HeroGithub.jpg) 
 
 
-* [Lets see it](https://stephenamaya.github.io/HTML-Email/)
+* [Lets See It](https://stephenamaya.github.io/HTML-Email/)
